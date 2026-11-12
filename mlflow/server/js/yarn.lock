@@ -3484,7 +3484,7 @@ __metadata:
 
 "@databricks/design-system@file:./vendor/design-system::locator=%40mlflow%2Fmlflow%40workspace%3A.":
   version: 1.0.0-7032265c
-  resolution: "@databricks/design-system@file:./vendor/design-system#./vendor/design-system::hash=5fbc9b&locator=%40mlflow%2Fmlflow%40workspace%3A."
+  resolution: "@databricks/design-system@file:./vendor/design-system#./vendor/design-system::hash=e076e4&locator=%40mlflow%2Fmlflow%40workspace%3A."
   dependencies:
     "@ant-design/icons": "npm:^4.7.0"
     "@babel/runtime": "npm:^7.26.0"
@@ -3526,7 +3526,7 @@ __metadata:
     moment: ^2.25.3
     react: "*"
     react-dom: "*"
-  checksum: 10c0/0c38354ffe8832ebf123173025e7c77246eeeff4f489fc8b4cfd22228e6f0cd8fcc24848aa9b25bb2b38972ae04eabc72896fdca9d0b0277eca6cefedc3eebcd
+  checksum: 10c0/c497da919a5fb28c431279fb7d4314387cd0428d088e459954f03db747b476decff4af6cb06ad454d8b14d8c87b2cc7dfc386c51921869c2b411aa303b9c910b
   languageName: node
   linkType: hard
 
@@ -23817,9 +23817,9 @@ __metadata:
   linkType: hard
 
 "node-forge@npm:^1":
-  version: 1.4.0
-  resolution: "node-forge@npm:1.4.0"
-  checksum: 10c0/67330a5f1f95257a4c8a93b7d555abe87b5f15e350123aa396c97a21a8ca94f9c6549008eb2c73668a91e0d7e3a905785acbd8f8bd0751c29401292011f8f8e1
+  version: 1.4.3
+  resolution: "node-forge@npm:1.4.3"
+  checksum: 10c0/02202bf144dfb6f9662c21a2fdbc6251cb1e8b6dd7e4016d2bb8c996fb61a46383f7426503e06e3f15014d1b8a3215c32ee5cf22e5023ecd8e6d88b6a41dada0
   languageName: node
   linkType: hard
 
