@@ -66,7 +66,7 @@ cachetools==5.5.0
     # via
     #   -r skinny-requirements.txt
     #   google-auth
-certifi==2024.8.30
+certifi==2026.10.18
     # via
     #   httpcore
     #   httpx
