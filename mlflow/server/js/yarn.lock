@@ -3484,7 +3484,7 @@ __metadata:
 
 "@databricks/design-system@file:./vendor/design-system::locator=%40mlflow%2Fmlflow%40workspace%3A.":
   version: 1.0.0-7032265c
-  resolution: "@databricks/design-system@file:./vendor/design-system#./vendor/design-system::hash=5fbc9b&locator=%40mlflow%2Fmlflow%40workspace%3A."
+  resolution: "@databricks/design-system@file:./vendor/design-system#./vendor/design-system::hash=e076e4&locator=%40mlflow%2Fmlflow%40workspace%3A."
   dependencies:
     "@ant-design/icons": "npm:^4.7.0"
     "@babel/runtime": "npm:^7.26.0"
@@ -3526,7 +3526,7 @@ __metadata:
     moment: ^2.25.3
     react: "*"
     react-dom: "*"
-  checksum: 10c0/0c38354ffe8832ebf123173025e7c77246eeeff4f489fc8b4cfd22228e6f0cd8fcc24848aa9b25bb2b38972ae04eabc72896fdca9d0b0277eca6cefedc3eebcd
+  checksum: 10c0/c497da919a5fb28c431279fb7d4314387cd0428d088e459954f03db747b476decff4af6cb06ad454d8b14d8c87b2cc7dfc386c51921869c2b411aa303b9c910b
   languageName: node
   linkType: hard
 
@@ -5351,7 +5351,7 @@ __metadata:
     prettier: "npm:^2.8.0"
     process: "npm:^0.11.10"
     prop-types: "npm:^15.8.1"
-    qs: "npm:6.10.5"
+    qs: "npm:6.16.1"
     rc-image: "npm:~5.2.4"
     react: "npm:^18.2.0"
     react-17: "npm:react@^17.0.2"
@@ -26678,16 +26678,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"qs@npm:6.10.5":
-  version: 6.10.5
-  resolution: "qs@npm:6.10.5"
-  dependencies:
-    side-channel: "npm:^1.0.4"
-  checksum: 10c0/37480ff889e02b14a3a5e8639c44bbf66b28e202e26ce49e0cec7e092e5f2d058c6e508db367b7a9f79d98a37cd92b8bed46fc53c2ac961d42e6f9cc48f32d82
-  languageName: node
-  linkType: hard
-
-"qs@npm:^6.10.0, qs@npm:~6.16.0":
+"qs@npm:6.16.1, qs@npm:^6.10.0, qs@npm:~6.16.0":
   version: 6.16.1
   resolution: "qs@npm:6.16.1"
   dependencies:
